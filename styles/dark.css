@@ -1,0 +1,12 @@
+:root.theme-dark {
+  color-scheme: dark;
+  --background-color: #000028;
+  --background-image: url('../images/cover-image-dark.png');
+  --text-color: #f1b2ce;
+  --accent-color: #ff0070;
+  --heading-color: #db00ff;
+  --section-title-color: var(--accent-color);
+  --decorated-text-color: var(--background-color);
+  --decoration-color: var(--accent-color);
+  --rec-visibility: visible;
+}
